@@ -1,0 +1,32 @@
+/* App.css */
+.App {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header button {
+  background-color: #2196f3;
+}
+
+header button:hover {
+  background-color: #1e88e5;
+}
+
+table {
+  margin-top: 20px;
+}
+
+footer {
+  text-align: right;
+  margin-top: 20px;
+}
