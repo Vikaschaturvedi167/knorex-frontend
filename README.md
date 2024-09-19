@@ -5,14 +5,14 @@
 
 <h2>Table of Contents</h2>
 <li>
-Technologies Used
+<ul>Technologies Used
 Backend Setup
 Frontend Setup
 Database Setup
 Usage
 Features
 Notes
-Technologies Used
+Technologies Used </ul>
 <ol>Backend: Node.js with Express</ol>
 <ol>Frontend: React.js</ol>
 <ol>Database: MongoDB</ol>
