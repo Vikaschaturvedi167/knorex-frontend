@@ -13,8 +13,8 @@ Usage
 Features
 Notes
 Technologies Used
-Backend: Node.js with Express
-Frontend: React.js
-Database: MongoDB
-CSS Framework: Custom CSS
+<ol>Backend: Node.js with Express</ol>
+<ol>Frontend: React.js</ol>
+<ol>Database: MongoDB</ol>
+<ol>CSS Framework: Custom CSS</ol>
 </li>
